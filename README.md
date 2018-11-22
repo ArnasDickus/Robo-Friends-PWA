@@ -1,8 +1,8 @@
-# Robofriends
+# Robo-Friends-PWA
 
 robot-search program that takes json from [website](https://jsonplaceholder.typicode.com/users) and display it on the screen. Created with the help of udemy The Complete Junior to Senior Web Developer Roadmap (2019)
 
-[Live version](https://arnasdickus.github.io/robofriends/)
+Currently unavailable.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -59,4 +59,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 * Thanks to Brad Schiff for The Complete Junior to Senior Web Developer Roadmap (2019) udemy course.
 
 
-# Robo-Friends-PWA
+
