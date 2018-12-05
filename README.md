@@ -2,7 +2,7 @@
 
 robot-search program that takes json from [website](https://jsonplaceholder.typicode.com/users) and display it on the screen. Created with the help of udemy The Complete Junior to Senior Web Developer Roadmap (2019)
 
-Currently unavailable.
+[Live Version](https://arnasdickus.github.io/Robo-Friends-PWA/) 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
